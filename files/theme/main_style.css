@@ -337,8 +337,6 @@ body.page-has-banner.affix .birdseye-header {
 #wsite-mini-cart {
   position: fixed !important;
   top: 80px !important;
-  overflow-y: scroll;
-  max-height: 600px;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
